@@ -3,7 +3,7 @@
 ![Alt text](/src/assets/tie.PNG)
 
 
-Welcome to the ultimate Tic-Tac-Toe showdown! In this simple-yet-terrifying game, you’ll go head-to-head with a machine powered by the Minimax Algorithm. Spoiler alert: You can’t win. Seriously. The AI knows every move you’ll make before you even think it! But hey, you can still try your luck (or maybe just go for a draw).
+Welcome to the ultimate Tic-Tac-Toe showdown! In this simple-yet-terrifying game, you’ll go head-to-head with a machine powered by the [Minimax](https://en.wikipedia.org/wiki/Minimax)  Algorithm. Spoiler alert: You can’t win. Seriously. The AI knows every move you’ll make before you even think it! But hey, you can still try your luck (or maybe just go for a draw).
 
 
 ## 🚀 How It Works
